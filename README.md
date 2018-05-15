@@ -1,5 +1,5 @@
 # mrubv1
-project name: MRU-B-v1-ContactsRecyclerView
+MRU-B-v1-ContactsRecyclerView
 
 MRU-B v1 CONTACTS VIEW, Specs part 8 
 ------------------------------------
