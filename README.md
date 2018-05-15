@@ -3,6 +3,10 @@ project name: MRU-B-v1-ContactsRecyclerView
 
 MRU-B v1 CONTACTS VIEW, Specs part 8 
 ------------------------------------
+ContactAdapter extends RecyclerView.Adapter
+public class Contact
+List<Contact> contactList 
+  
 DONE:
 + RecyclerView that lists all the phone’s Contacts. 
 + Create a model for Contact which contains name, surname, picture if available and a phone number.
